@@ -1,0 +1,28 @@
+Triage Routing Evaluation Report
+Total samples: 36
+Correct predictions: 35
+Accuracy: 0.9722
+
+Per-class metrics:
+class,precision,recall,f1,support
+crisis,1.0000,0.7500,0.8571,4
+high_risk_cardio,1.0000,1.0000,1.0000,4
+stroke,1.0000,1.0000,1.0000,4
+severe_breathing,1.0000,1.0000,1.0000,4
+abdominal_emergency,1.0000,1.0000,1.0000,4
+dehydration,1.0000,1.0000,1.0000,4
+high_fever,1.0000,1.0000,1.0000,4
+panic_like,1.0000,1.0000,1.0000,4
+general,0.8000,1.0000,0.8889,4
+
+Confusion matrix (rows=true, cols=pred):
+true\pred,crisis,high_risk_cardio,stroke,severe_breathing,abdominal_emergency,dehydration,high_fever,panic_like,general
+crisis,3,0,0,0,0,0,0,0,1
+high_risk_cardio,0,4,0,0,0,0,0,0,0
+stroke,0,0,4,0,0,0,0,0,0
+severe_breathing,0,0,0,4,0,0,0,0,0
+abdominal_emergency,0,0,0,0,4,0,0,0,0
+dehydration,0,0,0,0,0,4,0,0,0
+high_fever,0,0,0,0,0,0,4,0,0
+panic_like,0,0,0,0,0,0,0,4,0
+general,0,0,0,0,0,0,0,0,4

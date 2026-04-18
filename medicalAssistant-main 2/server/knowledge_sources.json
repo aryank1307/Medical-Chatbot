@@ -1,0 +1,117 @@
+{
+  "sources": [
+    {
+      "category": "WHO Clinical Guidelines",
+      "urls": [
+        "https://www.who.int/publications/who-guidelines",
+        "https://www.who.int/data/gho",
+        "https://www.who.int/publications/i/item/9789240037021",
+        "https://www.who.int/publications/i/item/9789240031593",
+        "https://www.who.int/publications/i/item/guidelines-for-malaria",
+        "https://www.who.int/publications/i/item/9789240020924",
+        "https://www.who.int/publications/i/item/9789241549950",
+        "https://www.who.int/publications/i/item/9789241549790"
+      ]
+    },
+    {
+      "category": "NIH and Government Sources",
+      "urls": [
+        "https://catalog.data.gov/dataset/medlineplus-health-topic-web-service",
+        "https://medlineplus.gov/healthtopics.html",
+        "https://medlineplus.gov/xml.html",
+        "https://nih.figshare.com/articles/dataset/iCite_Database_Snapshots_NIH_Open_Citation_Collection_/6741422",
+        "https://www.nih.gov/health-information",
+        "https://www.nlm.nih.gov/databases/download/data_distrib_main.html",
+        "https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/"
+      ]
+    },
+    {
+      "category": "CDC Sources",
+      "urls": [
+        "https://data.cdc.gov",
+        "https://www.cdc.gov/nchs/nhis/index.htm",
+        "https://www.cdc.gov/brfss/index.html",
+        "https://wonder.cdc.gov",
+        "https://data.cdc.gov/browse?category=COVID-19"
+      ]
+    },
+    {
+      "category": "Biomedical QA Datasets",
+      "urls": [
+        "https://pubmedqa.github.io",
+        "https://github.com/pubmedqa/pubmedqa",
+        "http://bioasq.org",
+        "https://physionet.org/content/mediqasum/1.0.0/"
+      ]
+    },
+    {
+      "category": "Symptom Disease Datasets",
+      "urls": [
+        "https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset",
+        "https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning",
+        "https://data.mendeley.com/datasets/2cxccsxydc",
+        "https://github.com/Ankit152/Medical-Symptom-Dataset"
+      ]
+    },
+    {
+      "category": "Clinical Hospital Datasets",
+      "urls": [
+        "https://physionet.org/content/mimiciv",
+        "https://physionet.org/content/mimiciii",
+        "https://physionet.org/content/eicu-crd",
+        "https://physionet.org/about/database",
+        "https://github.com/MIT-LCP/mimic-code"
+      ]
+    },
+    {
+      "category": "Drug and Medication Datasets",
+      "urls": [
+        "https://go.drugbank.com/releases/latest",
+        "https://github.com/drugbank",
+        "https://open.fda.gov/data/drug",
+        "http://sideeffects.embl.de",
+        "https://dailymed.nlm.nih.gov"
+      ]
+    },
+    {
+      "category": "WHO Bulk Repositories",
+      "urls": [
+        "https://www.who.int/publications",
+        "https://iris.who.int"
+      ]
+    },
+    {
+      "category": "Imaging Datasets",
+      "urls": [
+        "https://nihcc.app.box.com/v/ChestXray-NIHCC",
+        "https://www.kaggle.com/c/rsna-pneumonia-detection-challenge",
+        "https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database"
+      ]
+    },
+    {
+      "category": "Epidemiology and Public Health",
+      "urls": [
+        "https://www.who.int/data/gho",
+        "https://data.worldbank.org/indicator/SH",
+        "https://www.healthdata.org/gbd"
+      ]
+    },
+    {
+      "category": "Specialty Sources",
+      "urls": [
+        "https://www.heart.org/en/professional/quality-improvement/clinical-guidelines",
+        "https://ginasthma.org",
+        "https://diabetes.org/diabetes/medical-professionals",
+        "https://www.cdc.gov/diseasesconditions",
+        "https://www.aan.com/Guidelines/home",
+        "https://gi.org/guidelines",
+        "https://kdigo.org/guidelines",
+        "https://www.nccn.org/guidelines",
+        "https://www.who.int/health-topics/mental-health",
+        "https://www.aap.org",
+        "https://www.who.int/health-topics/maternal-health",
+        "https://www.who.int/publications/i/item/emergency-care-systems-framework"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+ENV/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# Data and temp files
+*.csv
+*.xlsx
+*.db
+*.sqlite
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Uploaded docs / builds
+uploaded_docs/
